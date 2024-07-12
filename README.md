@@ -52,5 +52,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 <img width="1440" alt="Screenshot 2024-07-13 at 1 41 37 AM" src="https://github.com/user-attachments/assets/68db6fcc-b63e-44b1-858f-bc0c24c1b0c5">
 
+<img width="1440" alt="Screenshot 2024-07-13 at 1 52 43 AM" src="https://github.com/user-attachments/assets/36bfd15f-3862-476d-9002-9608b5126f17">
+
+<img width="1440" alt="Screenshot 2024-07-13 at 1 52 56 AM" src="https://github.com/user-attachments/assets/fb86c8b9-6683-4050-afee-59ef742ab976">
+
+
+
 
 
