@@ -13,7 +13,6 @@ const GuessingGame: React.FC = () => {
 
   const generateRandomNumber = (): Number  => {
     const number =  Math.floor(Math.random() * 10) + 1;
-    console.log("Secret Number: ", number);
     setGuessNumber(number);
     return number;
   };
@@ -27,8 +26,7 @@ const GuessingGame: React.FC = () => {
     if (inputGuess >= 1 && inputGuess <= 10) {
         setGuess(event.target.value);
     } else {
-       
-        // Display a message or handle invalid input as needed
+       // handle invalid input as needed
     }
   };
 
